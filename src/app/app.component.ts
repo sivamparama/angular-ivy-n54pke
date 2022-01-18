@@ -12,6 +12,6 @@ export class AppComponent  {
 
   }
   increaseCount(){
-    this.dataService.count++;
+    this.dataService.count++
   }
 }
